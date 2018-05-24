@@ -1,0 +1,45 @@
+table {  
+ background: #c1bfbd;  
+ border: 1px solid #A9A9A9;  
+ padding: 20px;  
+ margin-left: 450px;  
+ max-width: 25.0em;  
+ height: 300px;   
+ }  
+
+ th {
+    text-align:left;
+	font-size: 20px; 
+	padding: 30px;
+	max-width: 25.0em 	
+	color: #000000;
+	
+}
+ 
+input{  
+ background-color: #fff;  
+ width: 50px;  
+ height: 30px;  
+ font-size: 20px;  
+ border: 2px solid #097C9B;  
+ number-align: centre; 
+ 
+}  
+ 
+.button{  
+ background-color:#008000; /* Green */
+ border: none;
+ color: white;
+ width: 80px;  
+ height: 30px; 
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ margin: 4px 2px;
+ cursor: pointer;
+ 
+} 
+.button2 {background-color: #FF0000;} /* Red */ 
+.button3 {background-color: #0000FF;} /* Blue */
+.button4 {background-color: #FFD700;} /* Gold */ 
